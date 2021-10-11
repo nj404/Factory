@@ -1,0 +1,31 @@
+div.tablesorterPager 
+{
+	background-color:#e6e2d2;
+	text-align:center;height:30px;
+	line-height:27px;
+	opacity: 0.85;
+}
+
+div.tablesorterPager img 
+{
+	vertical-align:middle
+}
+
+div.tablesorterPager input.prev 
+{
+	width:auto;
+	margin-right:10px
+}
+
+div.tablesorterPager input.next 
+{
+	width:auto;
+	margin-left:10px
+}
+
+div.tablesorterPager input 
+{	font-size:0.7em;
+	width:70px;
+	border:1px solid #330000;
+	text-align:center
+}
